@@ -1,6 +1,6 @@
 # 🚀 About me
 
-Hi! 👋 I'm Fran Ramírez, I'm  **analyst programmer**, I am passionate about technology. My goal is to grow professionally and tackle challenges in the IT sector. 
+Hi! 👋 I'm Fran Ramírez, I'm an **analyst programmer**, I am passionate about technology. My goal is to grow professionally and tackle challenges in the IT sector. 
 
 ## 🛠 Skills
 
