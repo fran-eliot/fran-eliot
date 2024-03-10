@@ -1,27 +1,31 @@
-### 🚀 About Me
+# 🚀 About me
 
-Hi there 👋, I'm Fran Ramírez.
-I am an analyst programmer.
-I am a dynamic, proactive, and adaptable individual with a strong team spirit. 
-I seek challenges in the IT sector to grow professionally.
+Hi! 👋 I'm Fran Ramírez, I'm  **analyst programmer**, I am passionate about technology. My goal is to grow professionally and tackle challenges in the IT sector. 
 
-### 🔗 Links
+## 🛠 Skills
 
-Linkedin: in/franciscoramirezmartin
-e-mail: ramirez.martin.francisco
+- **Java**: Spring Framework, Spring Boot, JUnit
+- **Python**: Django, Tensorflow/Keras
+- **PHP**: Symfony, API Platform, PHPUnit
+- **Databases**: SQL, MySQL, PL/SQL, DB2, MongoDB
+- **Frontend**: JavaScript, Angular, React, HTML, CSS, Bootstrap, NodeJs, jQuery
+- **Cloud**: AWS
+- **Other Languages**: C, Pascal, Cobol
+- **Tools**: Git, GitHub, Bash, Trello
+- **CMS**: WordPress
 
-### 🛠 Skills
+ ## 🎓 Formation
 
-Java : Spring Framework, Spring Boot, JUnit
-Python: Django, Tensorflow/Keras
-PHP: Symfony, API Platform, PHPUnit
-Databases: SQL, MySQL, PL/SQL, DB2, MongoDB
-Frontend: JavaScript, Angular, React, HTML, CSS, Bootstrap, NodeJs, jQuery
-Cloud: AWS
-Other Languages: C, Pascal, Cobol
-Other Tools: Git, Github, Bash, Trello
-CMS: Wordpress
+- **Bachelor's Degree in Computer Engineering** (In the absence of the Final Year Project), School of Computer Engineering. University of Seville, Seville, Spain
+- **Professional Certification in Object-Oriented Programming Languages and Relational Databases** (710 h), CFTIC Madrid Sur (National Reference Center for Computer Development and Communications), Madrid, Spain.
+- **Full Stack Web Development and Immersive Technologies Bootcamp** (1000 hours), Factoria F5, Madrid, Spain
+- **Web Development with Java** (635 hours), Fundación Adecco, Madrid, Spain
 
+Feel free to connect with me on LinkedIn or send me an email! I’m excited about the opportunities that the world of programming has to offer. 😊
+## 🔗 Links
+
+- **LinkedIn**: www.linkedin/in/franciscoramirezmartin
+- **Email**: ramirez.martin.francisco@gmail.com
 
 <!--
 **fran-eliot/fran-eliot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
