@@ -1,19 +1,33 @@
 # 🚀 About me
 
-Hi! 👋 I'm Fran Ramírez, I'm an **analyst programmer**, I am passionate about technology. My goal is to grow professionally and tackle challenges in the IT sector. 
+Hi! 👋 I'm **Fran Ramírez**, I'm an **analyst programmer**, My passion for information technologies drives me to seek challenges in **backend web development**, with a special focus on **Java** and **Python** and **databases**. I am seeking opportunities to grow professionally and contribute to the success of innovative projects in the IT sector.
 
+---
 ## 🛠 Skills
 
-- **Java**: Spring Framework, Spring Boot, JUnit
-- **Python**: Django, Tensorflow/Keras
-- **PHP**: Symfony, API Platform, PHPUnit
-- **Databases**: SQL, MySQL, PL/SQL, DB2, MongoDB
-- **Frontend**: JavaScript, Angular, React, HTML, CSS, Bootstrap, NodeJs, jQuery
-- **Cloud**: AWS
-- **Other Languages**: C, Pascal, Cobol
-- **Tools**: Git, GitHub, Bash, Trello
-- **CMS**: WordPress
+```python
+class Fran:
+   def init(self):
+      self.code = {
+      "Java": ["Spring Framework", "Spring Boot", "JUnit"],
+      "Python": ["Django", "Tensorflow/Keras"],
+      "PHP": ["Symfony", "API Platform", "PHPUnit"],
+      "Databases": ["SQL", "MySQL", "PL/SQL", "DB2", "MongoDB"],
+      "Frontend": ["JavaScript", "Angular", "React", "HTML", "CSS", "Bootstrap", "NodeJs", "jQuery"],
+      "Cloud": ["AWS"],
+      "Other Languages": ["C", "Pascal", "Cobol"],
+      "Tools": ["Git", "GitHub", "Bash", "Trello"],
+      "CMS": ["WordPress"]
+      }
 
+   def __str__(self):
+      return f"Fran(code={self.code})"
+
+if __name__ == __main__:
+   fran = Fran()
+   print(fran)
+```
+---
  ## 🎓 Formation
 
 - **Bachelor's Degree in Computer Engineering** (In the absence of the Final Year Project), School of Computer Engineering. University of Seville, Seville, Spain
@@ -22,6 +36,8 @@ Hi! 👋 I'm Fran Ramírez, I'm an **analyst programmer**, I am passionate about
 - **Web Development with Java** (635 hours), Fundación Adecco, Madrid, Spain
 
 Feel free to connect with me on LinkedIn or send me an email! I’m excited about the opportunities that the world of programming has to offer. 😊
+
+---
 ## 🔗 Links
 
 - **LinkedIn**: www.linkedin/in/franciscoramirezmartin
