@@ -1,4 +1,4 @@
-<div align="right">🌐 [English](./README.en.md)</div>
+<div align="right">🌐 [English]([./README.en.md](https://github.com/fran-eliot/fran-eliot/blob/main/README.en.md)</div>
 <div align="center">
 
   <h1>Hola 👋 Soy Fran Ramírez</h1>
