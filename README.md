@@ -1,3 +1,4 @@
+<div align="right">🌐 [English](./README.en.md)</div>
 <div align="center">
 
   <h1>Hola 👋 Soy Fran Ramírez</h1>
@@ -14,7 +15,7 @@
 
 ## 🚀 Sobre mí
 
-Apasionado por el desarrollo backend y el análisis de datos, tengo experiencia trabajando con **Java, Python, AngularJS, NestJS y SQL**, entre otras tecnologías. He desarrollado aplicaciones completas con autenticación, control de acceso, manejo de disponibilidad y visualización de datos.
+Apasionado por el desarrollo backend y el análisis de datos, tengo experiencia trabajando con **Java, Python, AngularJS, NestJS, Django y SQL**, entre otras tecnologías. He desarrollado aplicaciones completas con autenticación, control de acceso, manejo de disponibilidad y visualización de datos.
 
 Soy metódico, resolutivo y siempre en búsqueda de nuevos retos.
 
@@ -40,7 +41,7 @@ class Fran:
     def __init__(self):
         self.backend = ["Java (Spring Boot)", "Python (Django, Flask)", "PHP (Symfony)", "Typescript (NestJS)"]
         self.frontend = ["Angular", "React", "HTML5", "CSS3", "JavaScript", "Bootstrap"]
-        self.databases = ["MySQL", "PostgreSQL", "MongoDB", "SQL Server", "DB2"]
+        self.databases = ["MySQL", "PL-SQL", "PostgreSQL", "MongoDB", "SQL Server", "DB2"]
         self.data_tools = ["Pandas", "TensorFlow", "Scikit-learn"]
         self.other = ["Git", "Bash", "Trello", "WordPress", "JUnit", "PyTest", "PHPUnit", "AWS"]
 ```
@@ -63,6 +64,6 @@ class Fran:
 [![Gmail Badge](https://img.shields.io/badge/-ramirez.martin.francisco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramirez.martin.francisco@gmail.com)](mailto:ramirez.martin.francisco@gmail.com)
 [![GitHub: fran-eliot](https://img.shields.io/github/followers/fran-eliot?label=follow&style=social)](https://github.com/fran-eliot)
 
-<div align="center"> <small>✨ Thank you for visiting my profile!</small> </div> 
+<div align="center"> <small>✨ ¡Gracias por visitar mi perfil! </small> </div> 
 
 
