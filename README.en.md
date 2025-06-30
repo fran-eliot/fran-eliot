@@ -1,5 +1,6 @@
 <!-- README.en.md -->
-<div align="right">🌐 [Español](./README.md)</div>
+<div align="right">🌐 [Español](https://github.com/fran-eliot/fran-eliot/blob/main/README.md)</div>
+
 
 <div align="center">
 
