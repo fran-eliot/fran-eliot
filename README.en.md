@@ -32,8 +32,8 @@ I’m methodical, solution-oriented, and always looking for new challenges.
 - 🧠 **[Dental Clinic – REST API (Backend)](https://github.com/fran-eliot/dental-back)**  
   Robust backend built with NestJS + MySQL, JWT authentication, availability management, and full patient-professional-slot relationships.
 
-- 📊 **[Customer Data Analysis](https://github.com/fran-eliot/data-analysis-clientes)**  
-  Ironhack Bootcamp: data cleaning, EDA, and clustering with Pandas and Scikit-learn.
+- 🧪 **[A/B Experiment – Vanguard](https://github.com/fran-eliot/vanguard-ab-test)**  
+  Full A/B test analysis in a real-world setting. Advanced cleaning, exploratory data analysis, and statistical testing to validate improvements in the digital process. Includes Power BI dashboard and final presentation.
 
 ---
 
