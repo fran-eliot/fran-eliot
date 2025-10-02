@@ -23,7 +23,7 @@ Soy metódico, resolutivo y siempre en búsqueda de nuevos retos.
 
 ## 💼 Proyectos Destacados
 
-- 🧠 **[COGNITIVA-AI)](https://github.com/fran-eliot/cognitiva-ai)**  
+- 🧠 **[COGNITIVA-AI](https://github.com/fran-eliot/cognitiva-ai)**  
   IA intermodal (clínica+MRI) para cribado temprano de Alzheimer; probabilidades calibradas, umbrales por cohorte (S2) y release reproducible.
 
 - 🦷 **[Clínica Dental – App de Gestión de Citas (Frontend)](https://github.com/fran-eliot/dental-front)**  
