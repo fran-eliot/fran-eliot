@@ -26,10 +26,13 @@ I’m methodical, solution-oriented, and always looking for new challenges.
 
 ## 💼 Highlighted Projects
 
+- 🧠 **[COGNITIVVA-AI](https://github.com/fran-eliot/cognitiva-ai)**  
+  Multimodal AI (clinical + MRI) for early Alzheimer’s screening; calibrated probabilities, cohort-specific thresholds (S2), and a reproducible release.
+
 - 🦷 **[Dental Clinic – Appointment Management App (Frontend)](https://github.com/fran-eliot/dental-front)**  
   Angular app with different roles (secretary and dentists), appointment management, weekly agenda, patient history, and availability.
 
-- 🧠 **[Dental Clinic – REST API (Backend)](https://github.com/fran-eliot/dental-back)**  
+- 🦷 **[Dental Clinic – REST API (Backend)](https://github.com/fran-eliot/dental-back)**  
   Robust backend built with NestJS + MySQL, JWT authentication, availability management, and full patient-professional-slot relationships.
 
 - 🧪 **[A/B Experiment – Vanguard](https://github.com/fran-eliot/vanguard-ab-test)**  
