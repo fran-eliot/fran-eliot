@@ -20,23 +20,24 @@ My earlier background in project management and team coordination adds experienc
 
 ## Featured Projects
 
-### 🎬 [Only Film](https://github.com/fran-eliot/only_film)
-**Java · Spring Boot · Spring Security · PostgreSQL · Flyway**
-
-Cinema management application featuring role-based access, transactional ticket booking, migrations and automated testing. Engineering highlights include Spring MVC, Hibernate/JPA, JUnit, Mockito, MockMvc, Selenium, Docker Compose and GitHub Actions.
-
-Originally a collaborative academic project, subsequently extended with documented engineering, security and quality improvements.
-
-[Repository](https://github.com/fran-eliot/only_film) · [Testing & CI](https://github.com/fran-eliot/only_film#pruebas-y-ci)
-
-### 🤖 [Aula Robótica Platform](https://github.com/fran-eliot/aula-robotica-platform)
-**Python · FastAPI · SQLAlchemy · MariaDB · WebSockets**
-
-Collaborative educational platform with modular backend design, REST APIs, JWT authentication, contextual access control and real-time features. Includes Pytest, Docker Compose and Nginx deployment documentation.
-
-Developed in an educational and collaborative setting.
-
-[Repository & Documentation](https://github.com/fran-eliot/aula-robotica-platform)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 <a href="https://github.com/fran-eliot/only_film">Only Film</a></h3>
+      <p><strong>Java · Spring Boot · Spring Security · PostgreSQL · Flyway</strong></p>
+      <p>Cinema management application featuring role-based access, transactional ticket booking, migrations and automated testing. Engineering highlights include Spring MVC, Hibernate/JPA, JUnit, Mockito, MockMvc, Selenium, Docker Compose and GitHub Actions.</p>
+      <p>Originally a collaborative academic project, subsequently extended with documented engineering, security and quality improvements.</p>
+      <p><a href="https://github.com/fran-eliot/only_film">Repository</a> · <a href="https://github.com/fran-eliot/only_film#pruebas-y-ci">Testing & CI</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/fran-eliot/aula-robotica-platform">Aula Robótica Platform</a></h3>
+      <p><strong>Python · FastAPI · SQLAlchemy · MariaDB · WebSockets</strong></p>
+      <p>Collaborative educational platform with modular backend design, REST APIs, JWT authentication, contextual access control and real-time features. Includes Pytest, Docker Compose and Nginx deployment documentation.</p>
+      <p>Developed in an educational and collaborative setting.</p>
+      <p><a href="https://github.com/fran-eliot/aula-robotica-platform">Repository & Documentation</a></p>
+    </td>
+  </tr>
+</table>
 
 ### Additional Projects
 
@@ -62,6 +63,7 @@ Developed in an educational and collaborative setting.
     </td>
   </tr>
 </table>
+
 ## Professional Experience
 
 ### BNP Paribas Personal Finance
@@ -92,8 +94,6 @@ Backend functionality and REST APIs using Python, Django and SQL Server, with te
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>Angular</strong></span> &nbsp;·&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>TypeScript</strong></span>
 </p>
-
-**Java · Spring Boot · Python · FastAPI · Angular · TypeScript**
 
 **Backend & Persistence:** Spring Security · Spring Cloud · Hibernate/JPA · SQLAlchemy · Django · Flask · NestJS · Node.js · PHP/Symfony  
 **Frontend:** React · JavaScript · HTML5 · CSS3 · Bootstrap · Thymeleaf  
