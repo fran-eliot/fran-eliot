@@ -20,23 +20,24 @@ Mi trayectoria anterior en gestión de proyectos y coordinación de equipos apor
 
 ## Proyectos destacados
 
-### 🎬 [Only Film](https://github.com/fran-eliot/only_film)
-**Java · Spring Boot · Spring Security · PostgreSQL · Flyway**
-
-Aplicación de gestión cinematográfica con control de acceso por roles, reserva transaccional de entradas, migraciones y pruebas automatizadas. Incluye Spring MVC, Hibernate/JPA, JUnit, Mockito, MockMvc, Selenium, Docker Compose y GitHub Actions.
-
-Proyecto originalmente académico y colaborativo, ampliado posteriormente con mejoras documentadas de ingeniería, seguridad y calidad.
-
-[Repositorio](https://github.com/fran-eliot/only_film) · [Pruebas y CI](https://github.com/fran-eliot/only_film#pruebas-y-ci)
-
-### 🤖 [Aula Robótica Platform](https://github.com/fran-eliot/aula-robotica-platform)
-**Python · FastAPI · SQLAlchemy · MariaDB · WebSockets**
-
-Plataforma educativa colaborativa con backend modular, APIs REST, autenticación JWT, control de permisos contextual y funcionalidades en tiempo real. Incluye Pytest y documentación de despliegue con Docker Compose y Nginx.
-
-Desarrollada en un contexto educativo y colaborativo.
-
-[Repositorio y documentación](https://github.com/fran-eliot/aula-robotica-platform)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 <a href="https://github.com/fran-eliot/only_film">Only Film</a></h3>
+      <p><strong>Java · Spring Boot · Spring Security · PostgreSQL · Flyway</strong></p>
+      <p>Aplicación de gestión cinematográfica con control de acceso por roles, reserva transaccional de entradas, migraciones y pruebas automatizadas. Incluye Spring MVC, Hibernate/JPA, JUnit, Mockito, MockMvc, Selenium, Docker Compose y GitHub Actions.</p>
+      <p>Proyecto originalmente académico y colaborativo, ampliado posteriormente con mejoras documentadas de ingeniería, seguridad y calidad.</p>
+      <p><a href="https://github.com/fran-eliot/only_film">Repositorio</a> · <a href="https://github.com/fran-eliot/only_film#pruebas-y-ci">Pruebas y CI</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/fran-eliot/aula-robotica-platform">Aula Robótica Platform</a></h3>
+      <p><strong>Python · FastAPI · SQLAlchemy · MariaDB · WebSockets</strong></p>
+      <p>Plataforma educativa colaborativa con backend modular, APIs REST, autenticación JWT, control de permisos contextual y funcionalidades en tiempo real. Incluye Pytest y documentación de despliegue con Docker Compose y Nginx.</p>
+      <p>Desarrollada en un contexto educativo y colaborativo.</p>
+      <p><a href="https://github.com/fran-eliot/aula-robotica-platform">Repositorio y documentación</a></p>
+    </td>
+  </tr>
+</table>
 
 ### Proyectos adicionales
 
@@ -62,6 +63,7 @@ Desarrollada en un contexto educativo y colaborativo.
     </td>
   </tr>
 </table>
+
 ## Experiencia profesional
 
 ### BNP Paribas Personal Finance
@@ -91,8 +93,6 @@ Funcionalidades backend y APIs REST con Python, Django y SQL Server, incluyendo 
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>Angular</strong></span> &nbsp;·&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>TypeScript</strong></span>
 </p>
-
-**Java · Spring Boot · Python · FastAPI · Angular · TypeScript**
 
 **Backend y persistencia:** Spring Security · Spring Cloud · Hibernate/JPA · SQLAlchemy · Django · Flask · NestJS · Node.js · PHP/Symfony  
 **Frontend:** React · JavaScript · HTML5 · CSS3 · Bootstrap · Thymeleaf  
