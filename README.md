@@ -66,20 +66,29 @@ My earlier background in project management and team coordination adds experienc
 
 ## Professional Experience
 
-### BNP Paribas Personal Finance
-**Full Stack Developer · Jun 2026 – Present**
-
-Java/Spring Boot services and Angular/TypeScript features; REST APIs, validations, automated testing, GitLab CI/CD, Kubernetes, code quality, Jira, Confluence and Agile collaboration.
-
-### University of Alcalá — Robotics Laboratory
-**Backend Developer · Python/FastAPI · Feb 2026 – May 2026**
-
-Backend development with FastAPI, SQLAlchemy, relational databases, JWT authorization, WebSockets, Docker and automated testing.
-
-### Ivack Solutions
-**Backend Developer · Python/Django · May 2024 – Nov 2024**
-
-Backend functionality and REST APIs using Python, Django and SQL Server, with testing and validation.
+<table>
+  <tr>
+    <td>
+      <h3>BNP Paribas Personal Finance</h3>
+      <p><strong>Full Stack Developer · Jun 2026 – Present</strong></p>
+      <p>Java/Spring Boot services and Angular/TypeScript features; REST APIs, validations, automated testing, GitLab CI/CD, Kubernetes, code quality, Jira, Confluence and Agile collaboration.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>University of Alcalá — Robotics Laboratory</h3>
+      <p><strong>Backend Developer · Python/FastAPI · Feb 2026 – May 2026</strong></p>
+      <p>Backend development with FastAPI, SQLAlchemy, relational databases, JWT authorization, WebSockets, Docker and automated testing.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Ivack Solutions</h3>
+      <p><strong>Backend Developer · Python/Django · May 2024 – Nov 2024</strong></p>
+      <p>Backend functionality and REST APIs using Python, Django and SQL Server, with testing and validation.</p>
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack & Engineering Practices
 
