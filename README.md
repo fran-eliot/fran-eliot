@@ -1,72 +1,162 @@
-<div align="right">🌐 [English]([./README.en.md](https://github.com/fran-eliot/fran-eliot/blob/main/README.en.md)</div>
-<div align="center">
-
-  <h1>Hola 👋 Soy Fran Ramírez</h1>
-  <p><strong>💻 Programador Analista | Backend Developer (Java,Python) | Entusiasta del aprendizaje constante</strong></p>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=fran-eliot&show_icons=true&theme=default&border_radius=10" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fran-eliot&layout=compact&theme=default&border_radius=10" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fran-eliot&theme=github-light" alt="Contribution Graph" />
+<div align="right">
+  <a href="./README.es.md">🇪🇸 Español</a>
 </div>
 
----
+# Hi, I'm Fran Ramirez
 
-## 🚀 Sobre mí
+### Backend & Full Stack Developer
 
-Apasionado por el desarrollo backend y el análisis de datos, tengo experiencia trabajando con **Java, Python, AngularJS, NestJS, Django y SQL**, entre otras tecnologías. He desarrollado aplicaciones completas con autenticación, control de acceso, manejo de disponibilidad y visualización de datos.
+**Java · Spring Boot · Python · FastAPI · Angular · TypeScript**
 
-Soy metódico, resolutivo y siempre en búsqueda de nuevos retos.
+Building maintainable backend services and full stack applications, with hands-on experience in software development, automated testing and collaborative delivery.
 
----
+[LinkedIn](https://www.linkedin.com/in/franeliot/) · [Email](mailto:ramirez.martin.francisco@gmail.com)
 
-## 💼 Proyectos Destacados
+## About Me
 
-- 🧠 **[COGNITIVA-AI](https://github.com/fran-eliot/cognitiva-ai)**  
-  IA intermodal (clínica+MRI) para cribado temprano de Alzheimer; probabilidades calibradas, umbrales por cohorte (S2) y release reproducible.
+My recent experience includes development work at **BNP Paribas Personal Finance**, the **University of Alcalá** and **Ivack Solutions**. I focus on Java/Spring Boot and Python/FastAPI, alongside frontend development, relational databases, software quality and CI/CD.
 
-- 🦷 **[Clínica Dental – App de Gestión de Citas (Frontend)](https://github.com/fran-eliot/dental-front)**  
-  Aplicación en Angular con roles diferenciados (secretaria y dentistas), gestión de citas, agenda semanal, historial y disponibilidad.
+My earlier background in project management and team coordination adds experience in collaboration, communication and structured problem-solving. I am also interested in applied AI and developer tooling.
 
-- 🦷 **[Clínica Dental – API REST (Backend)](https://github.com/fran-eliot/dental-back)**  
-  Backend robusto en NestJS + MySQL, autenticación JWT, gestión de disponibilidad y relaciones entre pacientes, profesionales y slots.
+## Featured Projects
 
-- 🧪 **[Experimento A/B – Vanguard](https://github.com/fran-eliot/vanguard-ab-test)**  
-  Análisis completo de test A/B en entorno real. Limpieza avanzada, análisis exploratorio y pruebas estadísticas para validar mejoras en la experiencia digital. Dashboard en Power BI y presentación final incluidos.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 <a href="https://github.com/fran-eliot/only_film">Only Film</a></h3>
+      <p><strong>Java · Spring Boot · Spring Security · PostgreSQL · Flyway</strong></p>
+      <p>Cinema management application featuring role-based access, transactional ticket booking, migrations and automated testing. Engineering highlights include Spring MVC, Hibernate/JPA, JUnit, Mockito, MockMvc, Selenium, Docker Compose and GitHub Actions.</p>
+      <p>Originally a collaborative academic project, subsequently extended with documented engineering, security and quality improvements.</p>
+      <p><a href="https://github.com/fran-eliot/only_film">Repository</a> · <a href="https://github.com/fran-eliot/only_film#pruebas-y-ci">Testing & CI</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/fran-eliot/aula-robotica-platform">Aula Robótica Platform</a></h3>
+      <p><strong>Python · FastAPI · SQLAlchemy · MariaDB · WebSockets</strong></p>
+      <p>Collaborative educational platform with modular backend design, REST APIs, JWT authentication, contextual access control and real-time features. Includes Pytest, Docker Compose and Nginx deployment documentation.</p>
+      <p>Developed in an educational and collaborative setting.</p>
+      <p><a href="https://github.com/fran-eliot/aula-robotica-platform">Repository & Documentation</a></p>
+    </td>
+  </tr>
+</table>
 
----
+### Additional Projects
 
-## 🧰 Tech Stack
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🧠 <a href="https://github.com/fran-eliot/cognitiva-ai">COGNITIVA-AI</a></strong>
+      <p>Experimental ML with clinical data and MRI; not a clinically validated diagnostic tool.</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>🧩 <a href="https://github.com/fran-eliot/github-framework">github-framework</a></strong>
+      <p>Repository standards, reusable documentation and automated validation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🦷 <a href="https://github.com/fran-eliot/dental-front">Dental Front</a></strong>
+      <p>Angular/TypeScript interface for appointments, scheduling and patient views.</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>⚙️ <a href="https://github.com/fran-eliot/dental-back-spring">Dental Back Spring</a></strong>
+      <p>Java/Spring Boot REST API for dental scheduling, JWT and MySQL.</p>
+    </td>
+  </tr>
+</table>
 
-```python
-class Fran:
-    def __init__(self):
-        self.backend = ["Java (Spring Boot)", "Python (Django, Flask)", "PHP (Symfony)", "Typescript (NestJS)"]
-        self.frontend = ["Angular", "React", "HTML5", "CSS3", "JavaScript", "Bootstrap"]
-        self.databases = ["MySQL", "PL-SQL", "PostgreSQL", "MongoDB", "SQL Server", "DB2"]
-        self.data_tools = ["Pandas", "TensorFlow", "Scikit-learn"]
-        self.other = ["Git", "Bash", "Trello", "WordPress", "JUnit", "PyTest", "PHPUnit", "AWS"]
-```
----
- ## 🎓 Formación
+## Professional Experience
 
-- **🎓 CFGS Desarrollo de Aplicaciones Multiplataforma (DAM)**, IES Lope de Vega, Madrid (en curso)
-- **🧑‍🎓 Grado en Ingeniería Informática**,  UNED, Madrid (en curso)
-- **🎓 Ingeniería Informática**, Universidad de Sevilla (faltando TFG)
-- **🧾 Cert. Profesional: POO y BBDD (710h)**, CFTIC Madrid Sur
-- **🌐 Bootcamp Full Stack + Tecnologías Inmersivas (1000h)**,Factoria F5, Madrid
-- **💻 Web Development con Java (635h)**, Fundación Adecco, Madrid
-- **🖥️ Frontend con Angular (300h)** — Fundación Adecco, Madrid
-- **📊 Bootcamp Análisis de Datos (300h)** - Ironhack, Madrid (en curso)
+<table>
+  <tr>
+    <td>
+      <h3>BNP Paribas Personal Finance</h3>
+      <p><strong>Full Stack Developer · Jun 2026 – Present</strong></p>
+      <p>Java/Spring Boot services and Angular/TypeScript features; REST APIs, validations, automated testing, GitLab CI/CD, Kubernetes, code quality, Jira, Confluence and Agile collaboration.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>University of Alcalá — Robotics Laboratory</h3>
+      <p><strong>Backend Developer · Python/FastAPI · Feb 2026 – May 2026</strong></p>
+      <p>Backend development with FastAPI, SQLAlchemy, relational databases, JWT authorization, WebSockets, Docker and automated testing.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Ivack Solutions</h3>
+      <p><strong>Backend Developer · Python/Django · May 2024 – Nov 2024</strong></p>
+      <p>Backend functionality and REST APIs using Python, Django and SQL Server, with testing and validation.</p>
+    </td>
+  </tr>
+</table>
 
----
-## 🤝 Conectemos
+## Tech Stack & Engineering Practices
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-franeliot-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/franeliot/)
-[![Gmail Badge](https://img.shields.io/badge/-ramirez.martin.francisco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramirez.martin.francisco@gmail.com)](mailto:ramirez.martin.francisco@gmail.com)
-[![GitHub: fran-eliot](https://img.shields.io/github/followers/fran-eliot?label=follow&style=social)](https://github.com/fran-eliot)
+### Core Technologies
 
-<div align="center"> <small>✨ ¡Gracias por visitar mi perfil! </small> </div> 
+<!-- Icon assets use a widely used public developer-icon repository; confirm availability and visual accessibility before publication. -->
+<p>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>Java</strong></span> &nbsp;·&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>Spring Boot</strong></span> &nbsp;·&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>Python</strong></span> &nbsp;·&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>FastAPI</strong></span> &nbsp;·&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>Angular</strong></span> &nbsp;·&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>TypeScript</strong></span>
+</p>
 
+**Backend & Persistence:** Spring Security · Spring Cloud · Hibernate/JPA · SQLAlchemy · Django · Flask · NestJS · Node.js · PHP/Symfony  
+**Frontend:** React · JavaScript · HTML5 · CSS3 · Bootstrap · Thymeleaf  
+**Databases:** PostgreSQL · MySQL · SQL Server · Oracle · DB2 · MongoDB · SQLite  
+**Testing, APIs & Quality:** JUnit · Mockito · Pytest · Selenium · Postman · Bruno · Swagger/OpenAPI · SonarQube  
+**DevOps & Collaboration:** Git · GitHub · GitLab · GitHub Actions · GitLab CI/CD · Jenkins · Docker · Kubernetes · AWS · Jira · Confluence  
+**Engineering Practices:** REST API design · Clean Code · Agile/Scrum · Code review · CI/CD · Automated testing · Layered architecture · Technical documentation  
+**Data & AI:** pandas · NumPy · scikit-learn · TensorFlow · XGBoost · LightGBM
 
+*Technologies listed reflect different levels of hands-on experience and specialized training; they are not claims of equal proficiency.*
+
+## Education & Training
+
+### Academic Education
+
+**Computer Science and Engineering studies — UNED**  
+*Grado en Ingeniería Informática · 2025–Present*
+
+**Computer Engineering — University of Seville**  
+*1989–1997 · Five academic years completed · Studies not completed*
+
+**Higher Vocational Training in Multiplatform Application Development (DAM)**  
+*IES Lope de Vega, Madrid · 2024–2026*
+
+### Professional Certificates
+
+- **IFCD0210 — Web Application Development** · 2026 · 590 hours
+- **IFCD0112 — Object-Oriented Programming and Relational Databases** · 2025 · 710 hours
+- **IFCT0609 — Computer Systems Programming** · 2025 · 590 hours
+
+### Specialized Technical Training
+
+- **Full Stack Development** — Factoría F5 · 2023 · 1,000 hours
+- **Java Development** — Fundación Adecco · 2024 · 635 hours
+- **Software Testing with Java, Spring and Selenium** — Fundación Adecco · 2026 · 285 hours
+- **Angular & NestJS** · 2025 · 300 hours
+- **Data Analytics and Machine Learning** — Ironhack · 2025 · 600 hours
+- **Spring & Hibernate** · 2026 · 100 hours
+- **Advanced Python** · 2025 · 100 hours
+- **AWS Cloud Fundamentals** · 2023 · 40 hours
+
+## Languages
+
+**Spanish:** Native · **French:** C1 · **English:** B2 · **Portuguese:** B2
+
+## Contact
+
+Interested in Backend & Full Stack opportunities involving Java, Spring Boot, Python and modern software engineering.
+
+[LinkedIn](https://www.linkedin.com/in/franeliot/) · [Email](mailto:ramirez.martin.francisco@gmail.com)
+
+## GitHub Activity
+
+<!-- Optional third-party GitHub stats: verify current endpoint, accuracy, and rendering before publishing. -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fran-eliot&amp;show_icons=true&amp;theme=transparent" alt="GitHub public activity statistics for fran-eliot" />
+</p>
