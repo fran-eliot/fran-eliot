@@ -40,13 +40,28 @@ Developed in an educational and collaborative setting.
 
 ### Additional Projects
 
-| Project | Focus |
-| --- | --- |
-| 🧠 **[COGNITIVA-AI](https://github.com/fran-eliot/cognitiva-ai)** | Experimental ML and deep learning with clinical data and MRI, including ensembles and probability calibration; not a clinically validated diagnostic tool. |
-| 🧩 **[github-framework](https://github.com/fran-eliot/github-framework)** | Repository standards, reusable documentation components, metadata contracts and automated validation. |
-| 🦷 **[Dental Front](https://github.com/fran-eliot/dental-front)** | Angular/TypeScript frontend with role-based views, scheduling and patient information. |
-| ⚙️ **[Dental Back Spring](https://github.com/fran-eliot/dental-back-spring)** | Java/Spring Boot API for patients, professionals, appointments and availability, with JWT and MySQL. |
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🧠 <a href="https://github.com/fran-eliot/cognitiva-ai">COGNITIVA-AI</a></strong>
+      <p>Experimental ML with clinical data and MRI; not a clinically validated diagnostic tool.</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>🧩 <a href="https://github.com/fran-eliot/github-framework">github-framework</a></strong>
+      <p>Repository standards, reusable documentation and automated validation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🦷 <a href="https://github.com/fran-eliot/dental-front">Dental Front</a></strong>
+      <p>Angular/TypeScript interface for appointments, scheduling and patient views.</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>⚙️ <a href="https://github.com/fran-eliot/dental-back-spring">Dental Back Spring</a></strong>
+      <p>Java/Spring Boot REST API for dental scheduling, JWT and MySQL.</p>
+    </td>
+  </tr>
+</table>
 ## Professional Experience
 
 ### BNP Paribas Personal Finance
@@ -70,12 +85,12 @@ Backend functionality and REST APIs using Python, Django and SQL Server, with te
 
 <!-- Icon assets use a widely used public developer-icon repository; confirm availability and visual accessibility before publication. -->
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" />
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>Java</strong></span> &nbsp;·&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>Spring Boot</strong></span> &nbsp;·&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>Python</strong></span> &nbsp;·&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>FastAPI</strong></span> &nbsp;·&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>Angular</strong></span> &nbsp;·&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>TypeScript</strong></span>
 </p>
 
 **Java · Spring Boot · Python · FastAPI · Angular · TypeScript**
