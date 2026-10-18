@@ -118,8 +118,8 @@ My earlier background in project management and team coordination adds experienc
 
 ### Academic Education
 
-**Computer Science and Engineering studies — UNED**  
-*Grado en Ingeniería Informática · 2025–Present*
+**Bachelor's Degree in Computer Engineering — UNED**  
+*Undergraduate studies · 2025–Present*
 
 **Computer Engineering — University of Seville**  
 *1989–1997 · Five academic years completed · Studies not completed*
