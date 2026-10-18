@@ -40,13 +40,28 @@ Desarrollada en un contexto educativo y colaborativo.
 
 ### Proyectos adicionales
 
-| Proyecto | Enfoque |
-| --- | --- |
-| 🧠 **[COGNITIVA-AI](https://github.com/fran-eliot/cognitiva-ai)** | Investigación experimental en ML y deep learning con datos clínicos y resonancias magnéticas, ensembles y calibración de probabilidades; no es una herramienta diagnóstica clínicamente validada. |
-| 🧩 **[github-framework](https://github.com/fran-eliot/github-framework)** | Estándares de repositorios, componentes documentales reutilizables, contratos de metadatos y validación automática. |
-| 🦷 **[Dental Front](https://github.com/fran-eliot/dental-front)** | Frontend Angular/TypeScript con vistas por roles, agenda e información de pacientes. |
-| ⚙️ **[Dental Back Spring](https://github.com/fran-eliot/dental-back-spring)** | API Java/Spring Boot para pacientes, profesionales, citas y disponibilidades, con JWT y MySQL. |
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🧠 <a href="https://github.com/fran-eliot/cognitiva-ai">COGNITIVA-AI</a></strong>
+      <p>ML experimental con datos clínicos y resonancias magnéticas; no es una herramienta diagnóstica validada clínicamente.</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>🧩 <a href="https://github.com/fran-eliot/github-framework">github-framework</a></strong>
+      <p>Estándares de repositorios, documentación reutilizable y validación automatizada.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🦷 <a href="https://github.com/fran-eliot/dental-front">Dental Front</a></strong>
+      <p>Interfaz Angular/TypeScript para citas, agendas e información de pacientes.</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>⚙️ <a href="https://github.com/fran-eliot/dental-back-spring">Dental Back Spring</a></strong>
+      <p>API REST Java/Spring Boot para gestión de citas, JWT y MySQL.</p>
+    </td>
+  </tr>
+</table>
 ## Experiencia profesional
 
 ### BNP Paribas Personal Finance
@@ -69,12 +84,12 @@ Funcionalidades backend y APIs REST con Python, Django y SQL Server, incluyendo 
 ### Tecnologías principales
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" />
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>Java</strong></span> &nbsp;·&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>Spring Boot</strong></span> &nbsp;·&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>Python</strong></span> &nbsp;·&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>FastAPI</strong></span> &nbsp;·&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>Angular</strong></span> &nbsp;·&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="" width="22" height="22" align="absmiddle" /> <strong>TypeScript</strong></span>
 </p>
 
 **Java · Spring Boot · Python · FastAPI · Angular · TypeScript**
